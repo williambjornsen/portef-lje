@@ -7,7 +7,7 @@ const HeaderMain = () => {
     <div className="border-b border-gray-200 py-6">
         <div className="container sm:flex justify-between items-center my-0 mx-10">
             <div className="font-bold text-4xl text-center pb-4 sm:pb-0 text-blackish">
-                Logo
+                Husk logo
             </div>
 
         <div className="w-full sm:w-[300px] md:w-[70%] relative">
